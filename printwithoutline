@@ -1,0 +1,9 @@
+
+print ("If you dream, you will succeed")
+ 
+
+print ("You decide best for you", end= "**")
+print("Welcome to programming")
+
+
+/*The end keyword is used to specify the content that is to be printed at the end of the execution of the print() function. By default, it is set to “\n”, which leads to the change of line after the execution of print() statement.*\
