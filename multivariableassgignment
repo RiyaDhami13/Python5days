@@ -1,0 +1,16 @@
+#assigning different values to different variables.
+
+a, b, c = 1, 20.2, "RIYAdhami"
+ 
+print(a)
+print(b)
+print(c)
+
+
+#assigning same value to different vatiables
+
+c=d=e=17
+
+print(c)
+print(d)
+print(e)
