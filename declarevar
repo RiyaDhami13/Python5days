@@ -1,0 +1,20 @@
+# declaring the var
+Number = 100
+ 
+# display
+print( Number)
+
+
+
+# An integer assignment
+age = 16
+ 
+# A floating point
+salary = 000000.00
+ 
+# A string
+name = "Riya"
+ 
+print(age)
+print(salary)
+print(name)
