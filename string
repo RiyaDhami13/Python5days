@@ -1,9 +1,3 @@
 print("Go out in nature  \n is best for Content." )
 print("")
 print('Hello World')
-
-// output is 
-/* GeeksforGeeks 
- is best for DSA  Content.
-
-Hello World */
