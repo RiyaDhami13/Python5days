@@ -1,0 +1,11 @@
+doctor = ['house', 'cuddy', 'chase', 'thirteen', 'wilson']
+
+range(50)
+
+underwood = 'After all, we are nothing more or less than what we choose to reveal.'
+
+jean = '24601'
+
+flash = ['jay garrick', 'barry allen', 'wally west', 'bart allen']
+
+valjean = 24601
